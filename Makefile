@@ -1,2 +1,2 @@
-all:ChessBoard.cpp
-	gcc -o all -Wall ChessBoard.cpp
+all:ChessBoard.c
+	gcc -o all -Wall ChessBoard.c
